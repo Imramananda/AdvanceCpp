@@ -1,0 +1,20 @@
+﻿  String_view.cpp
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\String_view\String_view.cpp(1,2): error C3409: empty attribute block is not allowed
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\String_view\String_view.cpp(1,2): error C2143: syntax error: missing ']' before 'constant'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\String_view\String_view.cpp(1,2): error C2059: syntax error: 'constant'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\String_view\String_view.cpp(1,4): error C2059: syntax error: 'constant'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\sal.h(2361,12): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'String_view.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\sal.h(2361,12): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'String_view.cpp')
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\String_view\String_view.cpp(14,10): error C2039: 'string_view': is not a member of 'std'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\iostream(18,1):
+  see declaration of 'std'
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\String_view\String_view.cpp(14,10): error C2065: 'string_view': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\String_view\String_view.cpp(14,22): error C2146: syntax error: missing ';' before identifier 'view'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\String_view\String_view.cpp(14,22): error C3861: 'view': identifier not found
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\String_view\String_view.cpp(16,18): error C2065: 'view': undeclared identifier
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\string_view(12): warning STL4038: The contents of <string_view> are available only with C++17 or later.

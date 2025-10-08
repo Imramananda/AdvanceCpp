@@ -1,0 +1,26 @@
+﻿  functional_composition_1.cpp
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day1\functional_composition_1\functional_composition_1.cpp(64,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day1\functional_composition_1\functional_composition_1.cpp(126,52): error C2672: 'resultOfCalc_2': no matching overloaded function found
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day1\functional_composition_1\functional_composition_1.cpp(88,6):
+  could be 'unknown-type resultOfCalc_2(const FN &,const T1 &,const T2 &)'
+  	D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day1\functional_composition_1\functional_composition_1.cpp(126,52):
+  	Failed to specialize function template 'unknown-type resultOfCalc_2(const FN &,const T1 &,const T2 &)'
+  		D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day1\functional_composition_1\functional_composition_1.cpp(126,52):
+  		With the following template arguments:
+  			D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day1\functional_composition_1\functional_composition_1.cpp(126,52):
+  			'FN=int (int,int)'
+  			D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day1\functional_composition_1\functional_composition_1.cpp(126,52):
+  			'T1=int'
+  			D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day1\functional_composition_1\functional_composition_1.cpp(126,52):
+  			'T2=int *'
+  		D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day1\functional_composition_1\functional_composition_1.cpp(90,33):
+  		'FN': cannot convert argument 2 from 'const T2' to 'int'
+          with
+          [
+              FN=int (int,int)
+          ]
+          and
+          [
+              T2=int *
+          ]
+  

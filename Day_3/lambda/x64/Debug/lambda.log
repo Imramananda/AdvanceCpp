@@ -1,0 +1,13 @@
+﻿  lambda.cpp
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambda\lambda.cpp(39,20): error C2127: 'Sum': illegal initialization of 'constexpr' entity with a non-constant expression
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambda\lambda.cpp(39,71):
+  failure was because type '<lambda_1>' is not a literal type
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambda\lambda.cpp(39,71):
+  type '<lambda_1>' is not a literal type because it is not an aggregate type, a closure type, or does not have a constexpr constructor that is not a copy or move constructor
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambda\lambda.cpp(55,21): error C2760: syntax error: '->' was unexpected here; expected '{'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambda\lambda.cpp(55,76): error C2059: syntax error: ';'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambda\lambda.cpp(56,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambda\lambda.cpp(60,5): error C2059: syntax error: 'return'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambda\lambda.cpp(61,1): error C2059: syntax error: '}'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambda\lambda.cpp(61,1): error C2143: syntax error: missing ';' before '}'

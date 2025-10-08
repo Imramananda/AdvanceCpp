@@ -1,0 +1,4 @@
+﻿  lvalue_rva;ue_move.cpp
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\lvalue_rva;ue_move\lvalue_rva;ue_move.cpp(215,7): warning C4552: '+': result of expression not used
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\lvalue_rva;ue_move\lvalue_rva;ue_move.cpp(237,15): warning C4101: 'myVar': unreferenced local variable
+  lvalue_rva;ue_move.vcxproj -> D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\lvalue_rva;ue_move\x64\Debug\lvalue_rva;ue_move.exe

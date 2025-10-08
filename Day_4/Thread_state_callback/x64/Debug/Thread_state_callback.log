@@ -1,0 +1,3 @@
+﻿  Thread_state_callback.cpp
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\Thread_state_callback\Thread_state_callback.cpp(93,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\Thread_state_callback\Thread_state_callback.cpp(93,5): error C2146: syntax error: missing ';' before identifier 'context'

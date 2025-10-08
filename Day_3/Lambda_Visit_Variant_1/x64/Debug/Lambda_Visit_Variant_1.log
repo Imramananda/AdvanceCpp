@@ -1,0 +1,33 @@
+﻿  Lambda_Visit_Variant_1.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\variant(12): warning STL4038: The contents of <variant> are available only with C++17 or later.
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(20,22): error C2039: 'variant': is not a member of 'std'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\vector(25,1):
+  see declaration of 'std'
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(20,22): error C2065: 'variant': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(20,30): error C2062: type 'char' unexpected
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(20,71): error C2059: syntax error: '>'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(21,22): error C2143: syntax error: missing ';' before '{'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(21,62): error C2143: syntax error: missing ';' before '}'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(23,20): error C2065: 'vecVariant': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(23,5): error C2530: 'v': references must be initialized
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(23,5): error C3531: 'v': a symbol whose type contains 'auto' must have an initializer
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(23,18): error C2143: syntax error: missing ';' before ':'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(23,30): error C2143: syntax error: missing ';' before ')'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(24,14): error C2039: 'visit': is not a member of 'std'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\vector(25,1):
+  see declaration of 'std'
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(24,14): error C3861: 'visit': identifier not found
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(29,20): error C2065: 'vecVariant': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(29,5): error C2530: 'v': references must be initialized
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(29,5): error C3531: 'v': a symbol whose type contains 'auto' must have an initializer
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(29,18): error C2143: syntax error: missing ';' before ':'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(29,30): error C2143: syntax error: missing ';' before ')'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(30,14): error C2039: 'visit': is not a member of 'std'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\vector(25,1):
+  see declaration of 'std'
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(30,14): error C3861: 'visit': identifier not found
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(44,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_Visit_Variant_1\Lambda_Visit_Variant_1.cpp(44,5): error C2146: syntax error: missing ';' before identifier 'context'

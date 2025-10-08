@@ -1,0 +1,4 @@
+﻿  AggregateExtension.cpp
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\AggregateExtension\AggregateExtension.cpp(52,14): error C7555: use of designated initializers requires at least '/std:c++20'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\AggregateExtension\AggregateExtension.cpp(90,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\AggregateExtension\AggregateExtension.cpp(90,5): error C2146: syntax error: missing ';' before identifier 'context'

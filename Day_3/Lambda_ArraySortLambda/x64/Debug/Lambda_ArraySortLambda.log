@@ -1,0 +1,45 @@
+﻿  Lambda_ArraySortLambda.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\string_view(12): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(20,28): error C2039: 'string_view': is not a member of 'std'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\iostream(18,1):
+  see declaration of 'std'
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(26,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(20,46): error C2146: syntax error: missing ')' before identifier 'rem'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(20,46): error C3646: 'rem': unknown override specifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(20,49): error C2059: syntax error: ')'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(20,49): error C2143: syntax error: missing ';' before 'const'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(20,51): error C2059: syntax error: '{'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(20,51): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(29,5): error C2664: 'auto main::<lambda_1>::operator ()(const int)': cannot convert argument 1 from 'const char [34]' to 'const int'
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(29,11):
+  There is no context in which this conversion is possible
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(20,51):
+  see declaration of 'main::<lambda_1>::operator ()'
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(29,5):
+  while trying to match the argument list '(const char [34])'
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(32,5): error C2664: 'auto main::<lambda_1>::operator ()(const int)': cannot convert argument 1 from 'const char [44]' to 'const int'
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(32,11):
+  There is no context in which this conversion is possible
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(20,51):
+  see declaration of 'main::<lambda_1>::operator ()'
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(32,5):
+  while trying to match the argument list '(const char [44])'
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(40,5): error C2664: 'auto main::<lambda_1>::operator ()(const int)': cannot convert argument 1 from 'const char [44]' to 'const int'
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(40,11):
+  There is no context in which this conversion is possible
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(20,51):
+  see declaration of 'main::<lambda_1>::operator ()'
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(40,5):
+  while trying to match the argument list '(const char [44])'
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(45,5): error C2664: 'auto main::<lambda_1>::operator ()(const int)': cannot convert argument 1 from 'const char [32]' to 'const int'
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(45,11):
+  There is no context in which this conversion is possible
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(20,51):
+  see declaration of 'main::<lambda_1>::operator ()'
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_ArraySortLambda\Lambda_ArraySortLambda.cpp(45,5):
+  while trying to match the argument list '(const char [32])'
+  

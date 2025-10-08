@@ -1,0 +1,18 @@
+﻿  lambdaInLambda.cpp
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambdaInLambda\lambdaInLambda.cpp(11,34): error C2039: 'string_view': is not a member of 'std'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\iostream(18,1):
+  see declaration of 'std'
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambdaInLambda\lambdaInLambda.cpp(11,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambdaInLambda\lambdaInLambda.cpp(11,45): error C2143: syntax error: missing ',' before '&'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambdaInLambda\lambdaInLambda.cpp(13,57): error C2065: 'name': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambdaInLambda\lambdaInLambda.cpp(29,20): error C2664: 'makeMeAdeveloper::<lambda_1> makeMeAdeveloper(const int)': cannot convert argument 1 from 'const char [8]' to 'const int'
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambdaInLambda\lambdaInLambda.cpp(29,37):
+  There is no context in which this conversion is possible
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambdaInLambda\lambdaInLambda.cpp(11,6):
+  see declaration of 'makeMeAdeveloper'
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambdaInLambda\lambdaInLambda.cpp(29,20):
+  while trying to match the argument list '(const char [8])'
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambdaInLambda\lambdaInLambda.cpp(29,18): error C2119: 'sayName2': the type for 'auto' cannot be deduced from an empty initializer
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\lambdaInLambda\lambdaInLambda.cpp(30,5): error C2064: term does not evaluate to a function taking 0 arguments

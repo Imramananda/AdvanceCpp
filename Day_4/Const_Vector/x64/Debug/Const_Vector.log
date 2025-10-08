@@ -1,0 +1,8 @@
+﻿  Const_Vector.cpp
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\Const_Vector\Const_Vector.cpp(12,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\Const_Vector\Const_Vector.cpp(12,14): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\Const_Vector\Const_Vector.cpp(13,18): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\Const_Vector\Const_Vector.cpp(13,18): error C2131: expression did not evaluate to a constant
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\Const_Vector\Const_Vector.cpp(13,36):
+  a non-constant (sub-)expression was encountered
+  

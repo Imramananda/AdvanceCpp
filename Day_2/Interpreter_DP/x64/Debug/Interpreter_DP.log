@@ -1,0 +1,21 @@
+﻿  Interpreter_DP.cpp
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP\Interpreter_DP.cpp(170,10): error C2039: 'unordered_map': is not a member of 'std'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\sstream(19,1):
+  see declaration of 'std'
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP\Interpreter_DP.cpp(170,23): error C2143: syntax error: missing ';' before '<'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP\Interpreter_DP.cpp(170,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP\Interpreter_DP.cpp(170,42): error C2039: 'function': is not a member of 'std'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\sstream(19,1):
+  see declaration of 'std'
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP\Interpreter_DP.cpp(170,105): error C2238: unexpected token(s) preceding ';'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP\Interpreter_DP.cpp(115,9): error C2065: 'operators_': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP\Interpreter_DP.cpp(116,9): error C2065: 'operators_': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP\Interpreter_DP.cpp(117,9): error C2065: 'operators_': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP\Interpreter_DP.cpp(118,9): error C2065: 'operators_': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP\Interpreter_DP.cpp(138,62): error C2065: 'operators_': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP\Interpreter_DP.cpp(140,17): error C2065: 'operators_': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP\Interpreter_DP.cpp(142,46): error C2065: 'operators_': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP\Interpreter_DP.cpp(154,28): error C2065: 'operators_': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP\Interpreter_DP.cpp(161,52): error C2065: 'operators_': undeclared identifier

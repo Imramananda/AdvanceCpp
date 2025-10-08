@@ -1,0 +1,9 @@
+﻿  compose_requires.cpp
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day1\compose_requires\compose_requires.cpp(53,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day1\compose_requires\compose_requires.cpp(53,14):
+  the template instantiation context (the oldest one first) is
+  	D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day1\compose_requires\compose_requires.cpp(97,25):
+  	see reference to function template instantiation 'float pump<30>(int)' being compiled
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day1\compose_requires\compose_requires.cpp(57,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  compose_requires.vcxproj -> D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day1\compose_requires\x64\Debug\compose_requires.exe

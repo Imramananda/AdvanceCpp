@@ -1,0 +1,6 @@
+﻿  Assignment_Variadic_calc.cpp
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Assignment_Variadic_calc\Assignment_Variadic_calc.cpp(363,6): error C3409: empty attribute block is not allowed
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Assignment_Variadic_calc\Assignment_Variadic_calc.cpp(363,6): error C2143: syntax error: missing ']' before 'constant'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Assignment_Variadic_calc\Assignment_Variadic_calc.cpp(363,6): error C2059: syntax error: 'constant'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Assignment_Variadic_calc\Assignment_Variadic_calc.cpp(363,8): error C2334: unexpected token(s) preceding ':'; skipping apparent function body
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Assignment_Variadic_calc\Assignment_Variadic_calc.cpp(453,1): error C1004: unexpected end-of-file found

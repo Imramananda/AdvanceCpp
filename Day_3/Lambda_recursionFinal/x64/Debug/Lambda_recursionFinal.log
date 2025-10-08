@@ -1,0 +1,26 @@
+﻿  Lambda_recursionFinal.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\variant(12): warning STL4038: The contents of <variant> are available only with C++17 or later.
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(16,15): error C2187: syntax error: 'std' was unexpected here
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(16,27): error C2059: syntax error: '<'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(20,23): error C7525: inline variables require at least '/std:c++17'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(24,49): error C7530: applying a pack-expansion to a using-declaration requires at least '/std:c++17'
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(24,49):
+  the template instantiation context (the oldest one first) is
+  	D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(24,55):
+  	see reference to class template instantiation 'overloaded<Ts...>' being compiled
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(27,14): error C2988: unrecognizable template declaration/definition
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(27,14): error C2143: syntax error: missing ')' before '...'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(27,14): error C2143: syntax error: missing ';' before '...'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(27,12): error C2365: 'Ts': redefinition; previous definition was 'template parameter'
+  D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(26,19):
+  see declaration of 'Ts'
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(27,17): error C2059: syntax error: ')'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(27,19): error C2988: unrecognizable template declaration/definition
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(27,19): error C2059: syntax error: '->'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(27,33): error C2065: 'Ts': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(27,33): error C3546: '...': there are no parameter packs available to expand
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(27,22): error C3544: 'Ts': parameter pack expects a type template argument
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(30,1): error C2143: syntax error: missing ';' before '{'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_3\Lambda_recursionFinal\Lambda_recursionFinal.cpp(30,1): error C2447: '{': missing function header (old-style formal list?)

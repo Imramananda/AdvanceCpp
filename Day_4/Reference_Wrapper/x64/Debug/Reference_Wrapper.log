@@ -1,0 +1,6 @@
+﻿  Reference_Wrapper.cpp
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\Reference_Wrapper\Reference_Wrapper.cpp(70,14): error C2039: 'sort': is not a member of 'std'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\vector(25,1):
+  see declaration of 'std'
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_4\Reference_Wrapper\Reference_Wrapper.cpp(70,14): error C3861: 'sort': identifier not found

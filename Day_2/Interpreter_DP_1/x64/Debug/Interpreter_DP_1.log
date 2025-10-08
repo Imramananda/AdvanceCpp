@@ -1,0 +1,27 @@
+﻿  Interpreter_DP_1.cpp
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP_1\Interpreter_DP_1.cpp(1,2): error C2337: 'Tuesday': attribute not found
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP_1\Interpreter_DP_1.cpp(1,10): error C2143: syntax error: missing ']' before 'constant'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP_1\Interpreter_DP_1.cpp(1,10): error C2059: syntax error: 'constant'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP_1\Interpreter_DP_1.cpp(1,12): error C2059: syntax error: 'constant'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\sal.h(2361,12): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'Interpreter_DP_1.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\sal.h(2361,12): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'Interpreter_DP_1.cpp')
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP_1\Interpreter_DP_1.cpp(203,10): error C2039: 'unordered_map': is not a member of 'std'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\functional(31,1):
+  see declaration of 'std'
+  
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP_1\Interpreter_DP_1.cpp(203,23): error C2143: syntax error: missing ';' before '<'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP_1\Interpreter_DP_1.cpp(203,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP_1\Interpreter_DP_1.cpp(203,105): error C2238: unexpected token(s) preceding ';'
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP_1\Interpreter_DP_1.cpp(147,9): error C2065: 'operators_': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP_1\Interpreter_DP_1.cpp(148,9): error C2065: 'operators_': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP_1\Interpreter_DP_1.cpp(149,9): error C2065: 'operators_': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP_1\Interpreter_DP_1.cpp(150,9): error C2065: 'operators_': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP_1\Interpreter_DP_1.cpp(170,62): error C2065: 'operators_': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP_1\Interpreter_DP_1.cpp(172,17): error C2065: 'operators_': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP_1\Interpreter_DP_1.cpp(174,46): error C2065: 'operators_': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP_1\Interpreter_DP_1.cpp(186,28): error C2065: 'operators_': undeclared identifier
+D:\UserData\z004e8pt\OneDrive - Siemens AG\workspace\C++Advance\Day_2\Interpreter_DP_1\Interpreter_DP_1.cpp(193,52): error C2065: 'operators_': undeclared identifier
